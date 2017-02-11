@@ -6,7 +6,7 @@
 }
 .navigation{
 	background: #222222;
-	max-width: 1170px;
+	max-width: 1140px;
 	padding: 0 15px;
 	box-sizing: border-box;
 	margin: 0 auto;
@@ -16,7 +16,7 @@
 .top_block{
 	background: #7a7979;
 	padding-top: 15px;
-	height: 500px;
+	min-height: 500px;
 	box-sizing: border-box;
 }
 .side_name{
@@ -24,6 +24,7 @@
 	color:#868484;
 	float: left;
 	padding: 15px;
+	padding-left: 0;
 }
 ul{
 	overflow: hidden;
